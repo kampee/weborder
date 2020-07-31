@@ -1,0 +1,179 @@
+body
+{
+	background-color: white;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+A:link
+{
+	color: blue;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	font-size: 12px; text-decoration: none;
+}
+
+A:visited
+{
+	color: blue;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+A:hover
+{
+	color: blue;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+input
+{
+	text-indent : 2px;
+}
+
+.vform
+{
+	font-family: ms sans serif, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: black;
+	background-color: white;
+	border-bottom: black 1px solid;
+	border-left: black 1px solid;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+}
+
+.orderform
+{
+	font-family: arial;
+	font-size: 10px;
+	font-style: normal;
+	color: black;
+	background-color: white;
+	border-bottom: #FFCC66 1px solid;
+	border-left: #FFCC66 1px solid;
+	border-right: #FFCC66 1px solid;
+	border-top: #FFCC66 1px solid;
+}
+
+.grayform
+{
+	font-family: arial,ms sans serif;
+	font-size: 12px;
+	font-style: normal;
+	color: black;
+	background-color: white;
+	border-bottom:  gray 1px solid;
+	border-left: gray 1px solid;
+	border-right: gray 1px solid;
+	border-top: gray 1px solid;
+}
+
+.addcart
+{
+	font-family: ms sans serif,verdana,arial;
+	font-size: 10px;
+	font-style: bold;
+	color: black;
+	background-color: white;
+	border-bottom:  gray 1px solid;
+	border-left: gray 1px solid;
+	border-right: gray 1px solid;
+	border-top: gray 1px solid;
+}
+
+
+.adminbutton
+{
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	color: white;
+	background-color: #CC0000;
+	border-bottom:  gray 1px solid;
+	border-left: gray 1px solid;
+	border-right: gray 1px solid;
+	border-top: gray 1px solid;
+}
+
+.ftsmall
+{
+	font-family: arial;
+	font-size: 6px;
+	font-style: normal;
+	color: blue;
+}
+
+.row1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;;
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	background-color: #F5F5F5;
+}
+
+.row2
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;;
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	background-color: #F5F5F5;
+}
+
+.gensmall
+{
+	font-family: Arial, Helvetica, sans-serif;;
+	font-size: 10px;
+	font-style: normal;
+	color: #000000;
+	background-color: #F5F5F5;
+}
+
+.thHead
+{
+	font-family: Arial, Helvetica, sans-serif;;
+	font-size: 12px;
+	font-style: bold;
+	color: #FFFFFF;
+	background-color: #4682B4;
+}
+
+TABLE#tblCoolbar 
+	{ 
+	background-color:threedface; padding:1px; color:menutext; 
+	border-width:1px; border-style:solid; 
+	border-color:threedhighlight threedshadow threedshadow threedhighlight;
+	}
+.cbtn
+	{
+	height:18;
+	BORDER-LEFT: threedface 1px solid;
+	BORDER-RIGHT: threedface 1px solid;
+	BORDER-TOP: threedface 1px solid;
+	BORDER-BOTTOM: threedface 1px solid; 
+	}
+.txtbtn {font-family:tahoma; font-size:70%; color:menutext;}
+
+.bkoffice
+{
+	font-family: ms sans serif,verdana,arial;
+	font-size: 10px;
+	font-style: bold;
+	color: black;
+	background-color: white;
+	border-bottom:  gray 1px solid;
+	border-left: gray 1px solid;
+	border-right: gray 1px solid;
+	border-top: gray 1px solid;
+}
+

@@ -1,0 +1,75 @@
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930008 - 50/56');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930009 - 62');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930010 - 68');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930011 - 74');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930012 - 80');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930013 - 86');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930014 - 92');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930015 - 98');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930016 - 104');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930017 - 110/116');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930018 - 122/128');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930019 - 134/140');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930020 - 146/152');
+INSERT INTO `wb_wwksize` VALUES (0, 381, '9930021 - 158/164');
+
+--------------------
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 68/USA 9M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 74/USA 12M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 80/USA 18M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 86/USA 24M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 92/USA 2Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 98/USA 3Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 104/USA 4Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 92/USA 2Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 98/USA 3Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 104/USA 4Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 110/USA 5Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 116/USA 6Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 122/USA 7Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 128/USA 8Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 134/USA 9Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 140/USA 10Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 146/USA 11Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 152/USA 12Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 110/116 USA 5/6Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 122/128 USA 7/8Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 134/140 USA 9/10Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 146/152 USA 11/12Y');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 50-56/0-2M USA 0-3M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 62/2-4M USA 6M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 68/4-6M USA 9M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 74/6-9M USA 12M');
+INSERT INTO `wb_wwksize` VALUES (0, 391, 'EUR 80/9-12M USA 18M');
+
+------------------------------------------
+
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 50-56/0-2M USA 0-3M');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 62/2-4M USA 6M');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 68/4-6M USA 9M');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 74/6-9M USA 12M');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 80/9-12M USA 18M');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 86/1-2Y USA 24Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 92 USA 2Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 98 USA 3Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 104 USA 4Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 110/116 USA 5/6Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 122/128 USA 7/8Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 134/140 USA 9/10Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 146/152 USA 11/12Y');
+INSERT INTO `wb_wwksize` VALUES (0, 395, 'EUR 158/164 USA 13/14Y');
+
+---------------------------------------------------
+
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 68/4-6M USA 9M');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 74/6-9M USA 12M');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 80/9-12M USA 18M');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 86/1-2Y USA 24M');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 92 USA 2Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 98 USA 3Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 104 USA 4Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 110/116 USA 5/6Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 122/128 USA 7/8Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 134/140 USA 9/10Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 146/152 USA 11/12Y');
+INSERT INTO `wb_wwksize` VALUES (0, 397, 'EUR 158/164 USA 13/14Y');

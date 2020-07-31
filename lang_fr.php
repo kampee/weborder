@@ -1,0 +1,50 @@
+<?php
+
+define(_search_txt,"Recherche");
+define(_Product_Ref_txt,"Produit Réf.");
+define(_vers_check_txt,"Version De French");
+define(_welcome_txt,"Bienvenue");
+define(_start_ordering_button,"Commencez À passer commande Maintenant");
+$_You_have_product_in_cart="Il y a des produits dans votre panier.";
+$_items_txt="articles.";
+define(_main_menu_txt,"Menu Principal");
+define(_howto_txt,"Comment faire");
+define(_preference_txt,"Préférence");
+define(_product_txt,"Produits");
+define(_view_cart_txt,"Voir le panier");
+define(_track_order_txt,"Suivre la commande");
+define(_contact_us_txt,"Nous contacter");
+define(_logout_txt,"Quitter");
+define(_Your_Cart_txt,"Votre panier");
+define(_Edit_txt,"Modifier");
+define(_Order_Tracking_txt,"Suivre la commande");
+define(_View_Order_txt,"Voir la commande");
+define(_You_can_fill,"Vous pouvez remplir la commande no.");
+define(_Track_btn,"Suivre!");
+$_delete_btn="Effacer";
+$_update_btn="Mettre à jour Modifier";
+$_order_now_btn="Commander Maintenant";
+$_Product_Description_txt="Description du produit ";
+$_Item_added_on_txt="Article ajouté le";
+$_view_cart_tip1_txt="Pour enlver des articles, sélectionner le carré approprié et presser le bouton EFFACER";
+$_view_cart_tip2_txt="Pour mettre à jour, comme par exemple pour modifier la quantité, sélectionner le carré approprié et presser le bouton METTRE À JOUR";
+$_view_cart_tip3_txt="Pour passer la commande, appuyer sur le bouton “COMMANDER MAINTENANT”";
+$_view_cart_tick_txt="*Sélectionner le carré approprié pour retenir tous les articles";
+$_Add_more_product_txt="Ajoutez plus de produit";
+$_order_status1_txt="Vérifier votre commande";
+$_order_status2_txt="Renseignement Détails ";
+$_order_status3_txt="Paiement";
+$_order_status4_txt="Confirmez";
+$_You_have_successfully_txt="Vous avez réussi à transmettre votre commande";
+$_Cmess1_txt="Prenez soin de noter votre numéro de commande pour faire le suivi ou des consultations Votre numéro de commande va également se trouver sur les documents d’expédition.";
+$_Order_No_txt="Commande No";
+$_Click_Here_to_txt="Appuyer ici pour retourner à la";
+$_Home_Page_txt="page d’accueil";
+$_ENTER_NEW_ORDER_btn="ENTRER UNE NOUVELLE COMMANDE";
+$_Your_cart_is_empty="Votre panier est vide";
+$_All_Categories_lst="Toutes les Catégories";
+$_All_Products_txt="Tous les Produits";
+$_Categories_txt="Catégories";
+$_Keyword_txt="Mot-clé";
+
+?>
